@@ -26,9 +26,28 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+<html>
+<head>
+</head>
+<body>
+<p style="font-size:30px"><b>Agricultural Search</b></p>
+<a href="https://milnepublishing.geneseo.edu/botany/chapter/rice/">
+<img style="border:5px solid black;"src="/home/sec/Pictures/rice.jpeg"width=300" height="400"><br>
+<br>
+<a href="https://en.wikipedia.org/wiki/Wheat">
+<img style="border:5px solid black;"src="/home/sec/Pictures/wheat.jpeg"width=300" height="400"><br>
+<br>
+<a href=https://www.zzhuayo.com/product/mini-plough/">
+<img style="border:5px solid black;"src="/home/sec/Pictures/simple-plough.jpg"width=300" height="400"><br>
+<br>
+<a href=https://en.wikipedia.org/wiki/Fertilizer'>
+<img style="border:5px solid black;"src="/home/sec/Pictures/fertilizer.jpeg"width=300" height="400"><br>
+</a>
+</body>
+</html>
 
 ## OUTPUT
+![1](https://github.com/Krithikadini/Ex04_Web-Design/assets/127816336/1adda9d3-0786-4c0a-929f-9bcf7bf3bb40)
 
 
 ## RESULT
