@@ -26,6 +26,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 </head>
@@ -45,6 +46,7 @@
 </a>
 </body>
 </html>
+```
 
 ## OUTPUT
 ![1](https://github.com/Krithikadini/Ex04_Web-Design/assets/127816336/1adda9d3-0786-4c0a-929f-9bcf7bf3bb40)
